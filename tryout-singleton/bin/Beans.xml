@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<beans 
+   xmlns="http://www.springframework.org/schema/beans"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+   xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd"> 
+   
+ 	 <bean id="spellChecker1" class="com.pk1.SpellChecker" scope="singleton"> 
+        </bean>
+      
+    
+   <bean id="textEditor" class="com.pk1.TextEditor" scope="singleton">
+    <property name="name" value="WORD Text Editor" />
+    <property name="spellChecker" ref="spellChecker1"></property>
+     </bean>
+     
+     
+     
+<!--      <bean id="spellChecker2" class="com.pk1.SpellChecker" scope="singleton"> 
+        
+      </bean>
+ -->	
+    
+     </beans>

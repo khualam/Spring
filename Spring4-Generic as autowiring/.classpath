@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/mule-module-spring-config-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-aop-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-beans-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-context-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-context-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-core-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-data-jpa-1.4.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-expression-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-integration-core-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-jdbc-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-jms-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-security-config-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-security-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-security-web-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-web-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-webmvc-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/D_colon_Data/Kedar_Data/Technology/Spring/Spring4/Spring jar release/spring-ws-security-2.1.4.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
